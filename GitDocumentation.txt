@@ -1,0 +1,6 @@
+Set Global Setting.
+
+1. git config --global user.name "Yamank"
+2. git config --global user.email "littletech0@gmail.com"
+3. git config --global core.editor "code --wait"
+4. git config --global core.autocrlf
