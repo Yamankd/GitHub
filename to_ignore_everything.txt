@@ -1,0 +1,3 @@
+to ignore anything which is locate in Your folder.
+
+ek file banao [.gitignore] naam se.
