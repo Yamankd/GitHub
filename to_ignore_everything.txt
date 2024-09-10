@@ -1,3 +1,5 @@
 to ignore anything which is locate in Your folder.
 
-ek file banao [.gitignore] naam se.
+1. ek file banao [.gitignore] naam se.
+
+2. Fir jis file ko ignore krna hai us file ka naam [.gitignore] file k andar likh do.
